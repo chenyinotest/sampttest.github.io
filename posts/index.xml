@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ptblog</title>
+    <link>https://sampttest.github.io/posts/</link>
+    <description>Recent content in Posts on ptblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 12:18:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://sampttest.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试</title>
+      <link>https://sampttest.github.io/2020/testhttpimg/</link>
+      <pubDate>Thu, 19 Mar 2020 12:18:44 +0800</pubDate>
+      
+      <guid>https://sampttest.github.io/2020/testhttpimg/</guid>
+      <description>23333</description>
+    </item>
+    
+  </channel>
+</rss>
